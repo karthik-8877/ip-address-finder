@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { ThemeProvider, CssBaseline, createTheme, IconButton, AppBar, Toolbar, Typography, Box } from '@mui/material';
 import { Routes, Route, Link } from 'react-router-dom';
 import HomePage from './components/HomePage';
-import IpAddressPage from './components/IPAddressPage';
+import IpAddressPage from './components/IpAddressPage';
 import PortPage from './components/PortPage';
 
 function App() {
